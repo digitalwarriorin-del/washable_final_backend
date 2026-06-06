@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+.env
+.env.local
+.env.production
+
+firebase-service*.json
+src/config/firebase-service*.json
+
+*.log
+.DS_Store
+.vscode/
+.idea/
